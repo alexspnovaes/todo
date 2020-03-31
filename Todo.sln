@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Domain", "Todo.Domain\Todo.Domain.csproj", "{AE5B4285-7C08-4CE8-920E-E69E819E94A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Domain", "src\Todo.Domain\Todo.Domain.csproj", "{AE5B4285-7C08-4CE8-920E-E69E819E94A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Api", "Todo.Api\Todo.Api.csproj", "{C660BC00-7BA6-48A0-8931-9F61D77B3667}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Api", "src\Todo.Api\Todo.Api.csproj", "{C660BC00-7BA6-48A0-8931-9F61D77B3667}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Domain.Infra", "Todo.Domain.Infra\Todo.Domain.Infra.csproj", "{D39F93C6-6C9B-4029-88F4-D0ADA5D62B16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Domain.Infra", "src\Todo.Domain.Infra\Todo.Domain.Infra.csproj", "{D39F93C6-6C9B-4029-88F4-D0ADA5D62B16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Domain.Tests", "Todo.Domain.Tests\Todo.Domain.Tests.csproj", "{A50A6AC2-EF14-4D59-9549-74CA2DE1FD9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Domain.Tests", "src\Todo.Domain.Tests\Todo.Domain.Tests.csproj", "{A50A6AC2-EF14-4D59-9549-74CA2DE1FD9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C1D7D86B-5155-4331-A2FC-7BC519784D67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +38,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AE5B4285-7C08-4CE8-920E-E69E819E94A7} = {C1D7D86B-5155-4331-A2FC-7BC519784D67}
+		{C660BC00-7BA6-48A0-8931-9F61D77B3667} = {C1D7D86B-5155-4331-A2FC-7BC519784D67}
+		{D39F93C6-6C9B-4029-88F4-D0ADA5D62B16} = {C1D7D86B-5155-4331-A2FC-7BC519784D67}
+		{A50A6AC2-EF14-4D59-9549-74CA2DE1FD9A} = {C1D7D86B-5155-4331-A2FC-7BC519784D67}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6C810094-3966-47BA-A6EE-7E46E3274614}
