@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwGkTp4qQqMbYo43n9TP3MXYtGG0cll+B9v6/+a+u2WYzSqnHMDu1i3s9n65EIqDfBSf4Y1ZMWZCXxgs10iyyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\source\\repos\\Todo\\Todo.Api\\Todo.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

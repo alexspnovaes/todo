@@ -1,0 +1,9 @@
+C:\Users\alexa\source\repos\Todo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Todo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Todo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Todo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Todo\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.deps.json
+C:\Users\alexa\source\repos\Todo\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\Users\alexa\source\repos\Todo\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\Users\alexa\source\repos\Todo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\Users\alexa\source\repos\Todo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.pdb
